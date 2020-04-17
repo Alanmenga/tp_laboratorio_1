@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587165454 source:c:\users\matias\desktop\alanprogram\primer cuatrimestre\tps laboratorio\tp laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	"utn-alan.h"
+
+1587165488 source:c:\users\matias\desktop\alanprogram\primer cuatrimestre\tps laboratorio\tp laboratorio 1\utn-alan.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
+1587165457 c:\users\matias\desktop\alanprogram\primer cuatrimestre\tps laboratorio\tp laboratorio 1\utn-alan.h
+
